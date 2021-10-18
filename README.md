@@ -1,4 +1,4 @@
-# Mullti-Class-Text-Classification
+# Multi-Class-Text-Classification
 
 
 Api service which aims to classify a text into a given topic using machine learning algorithms.
